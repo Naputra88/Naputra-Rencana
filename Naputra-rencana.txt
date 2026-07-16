@@ -1,3 +1,4 @@
 Rencana Naputra
 - Belajar Git & Github
 - Dilanjutkan Belajar Kode Tentang Git 
+- membuat repository 
